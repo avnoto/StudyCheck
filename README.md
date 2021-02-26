@@ -13,7 +13,7 @@ a full stack MERN web application that provides usefull tools for a student and 
 
 ## Deployment
 
-Deployed application: 
+Deployed application: https://study-check.herokuapp.com/
 
 ## About
 
@@ -32,9 +32,3 @@ Future Development:
 ## Authors
 
 Alexandra Noto, Anthony Simone, Ryan Skog, and Scott Glover. 
-
-## Application Requirements
-
-* Must use MERN stack
-
-* Must use a CSS framework _other than_ Bootstrap
